@@ -41,14 +41,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jamie-kariuki-029938268/)
 - 📝 [My Blog on Medium](https://medium.com/@jamiekariuki18)
 
----
 
-🛠️ **Featured Project**
-👉 [End-to-End CI/CD Pipeline with Jenkins, Docker & AWS](https://medium.com/@jamiekariuki18/end-to-end-ci-cd-with-jenkins-docker-and-aws-beginner-devops-project-7a50b2721534)
-
----
-
-⚡ Let’s build scalable, secure and automated systems!
 
 
 <!--
