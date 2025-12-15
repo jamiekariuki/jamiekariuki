@@ -4,9 +4,9 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║  I design and automate scalable, secure infrastructures          ║
-║  3+ Years of hands-on DevOps & Cloud Architecture Experience     ║
-║  Building CI/CD pipelines, Container Orchestration & IaC         ║
+║  I design and automate scalable, secure infrastructures           ║
+║  3+ Years of hands-on DevOps & Cloud Architecture Experience      ║
+║  Building CI/CD pipelines, Container Orchestration & IaC          ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -48,14 +48,14 @@ I specialize in building robust cloud-native solutions that balance **performanc
 ### 📈 Skills Breakdown
 
 ```
-DevOps & Infrastructure Automation  ████████████████████ 95%
+DevOps & Infrastructure Automation   ████████████████████ 95%
 Kubernetes & Container Orchestration ███████████████████ 90%
-Cloud Architecture (AWS/Azure)      ███████████████████ 90%
-CI/CD Pipeline Design               ████████████████████ 95%
-Monitoring & Observability          ██████████████████ 85%
-Infrastructure as Code              ████████████████████ 95%
-Backend Development                 ██████████████████ 85%
-Full-Stack Development              █████████████████ 80%
+Cloud Architecture (AWS/Azure)       ███████████████████ 90%
+CI/CD Pipeline Design                ████████████████████ 95%
+Monitoring & Observability           ██████████████████ 85%
+Infrastructure as Code               ████████████████████ 95%
+Backend Development                  ██████████████████ 85%
+Full-Stack Development               █████████████████ 80%
 ```
 
 ---
@@ -86,18 +86,18 @@ Creating comprehensive observability solutions for production environments
 ### 🔗 Connect With Me
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  📱 Let's Connect                                            │
-│                                                              │
-│  🌐 Portfolio     https://james-kariuki.vercel.app          │
-│  💻 GitHub        https://github.com/jamiekariuki          │
-│  💼 LinkedIn      https://linkedin.com/in/james-kariuki-devops
-│  📝 Blog          https://medium.com/@jamiekariuki18        │
-│  📧 Email         jameikariuki18@gmail.com                 │
-│  📞 Phone         +254 719 481 930                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  📱 Let's Connect                                                │
+│                                                                  │
+│  🌐 Portfolio     https://james-kariuki.vercel.app               │
+│  💻 GitHub        https://github.com/jamiekariuki                │
+│  💼 LinkedIn      https://linkedin.com/in/james-kariuki-devops   |
+│  📝 Blog          https://medium.com/@jamiekariuki18             │
+│  📧 Email         jameikariuki18@gmail.com                       │
+│  📞 Phone         +254 719 481 930                               │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
